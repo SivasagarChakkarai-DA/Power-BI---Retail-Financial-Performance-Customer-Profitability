@@ -1,4 +1,4 @@
-# Power-BI---Retail-Financial-Performance-Customer-Profitability
+# City Super Store Retail Financial Performance Customer Profitability
 
 
 📌 Project Overview
